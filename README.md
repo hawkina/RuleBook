@@ -1,5 +1,7 @@
 RuleBook for RoboCup @Home 2022
 ===============================
+Temp:
+[![CI](https://github.com/hawkina/RuleBook/actions/workflows/ci.yml/badge.svg)](https://github.com/hawkina/RuleBook/actions/workflows/ci.yml)
 
 [![CI](https://github.com/RoboCupAtHome/RuleBook/actions/workflows/ci.yml/badge.svg)](https://github.com/RoboCupAtHome/RuleBook/actions/workflows/ci.yml)
 
